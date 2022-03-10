@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHIBUIKEM-LEXTU</Machine>
+    <WindowsUser>hp</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=790452D2-4486-4E8E-A4BE-7ACE335A9B9E</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>CA3CBB090F975ADDD221B11C8417059D25E62E5813F98410BE4764B8C8D3C64E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>C1564E94-CBF5-461D-88FD-57281FEAE454_1.0.0.0_x86__rz4p0ca1hbsb8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>C1564E94-CBF5-461D-88FD-57281FEAE454_rz4p0ca1hbsb8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>C1564E94-CBF5-461D-88FD-57281FEAE454</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=790452D2-4486-4E8E-A4BE-7ACE335A9B9E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-10T09:54:18.945</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\UserDetailsApp.Core.UWP.exe">
+      <PackagePath>entrypoint\UserDetailsApp.Core.UWP.exe</PackagePath>
+      <Modified>2022-03-10T09:24:58.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\autofac\6.3.0\lib\netstandard2.0\Autofac.dll">
+      <PackagePath>Autofac.dll</PackagePath>
+      <Modified>2021-10-08T14:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\mapster\7.3.0\lib\netstandard2.0\Mapster.dll">
+      <PackagePath>Mapster.dll</PackagePath>
+      <Modified>2022-02-20T12:02:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\mapster.core\1.2.0\lib\netstandard2.0\Mapster.Core.dll">
+      <PackagePath>Mapster.Core.dll</PackagePath>
+      <Modified>2021-04-10T09:26:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+      <Modified>2019-11-15T07:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2021-02-05T00:15:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T16:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win10-x86\nativeassets\uap10.0\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T13:38:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.0.4\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2020-09-03T17:13:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\system.diagnostics.diagnosticsource\4.7.1\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
+      <Modified>2020-04-14T21:48:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2020-02-19T09:05:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x86\native\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2016-11-30T02:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.essentials\1.7.0\lib\uap10.0.16299\Xamarin.Essentials.dll">
+      <PackagePath>Xamarin.Essentials.dll</PackagePath>
+      <Modified>2021-07-13T15:07:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+      <Modified>2021-10-14T09:54:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+      <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
+      <Modified>2021-10-14T09:54:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+      <Modified>2021-10-14T09:55:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+      <Modified>2021-10-14T09:55:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core\bin\Debug\netstandard2.0\UserDetailsApp.Core.dll">
+      <PackagePath>UserDetailsApp.Core.dll</PackagePath>
+      <Modified>2022-03-10T09:54:11.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core\bin\Debug\netstandard2.0\UserDetailsApp.Models.dll">
+      <PackagePath>UserDetailsApp.Models.dll</PackagePath>
+      <Modified>2022-03-10T09:54:09.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.dll">
+      <PackagePath>UserDetailsApp.Contracts.dll</PackagePath>
+      <Modified>2022-03-10T09:54:09.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core\bin\Debug\netstandard2.0\UserDetailsApp.Implementations.dll">
+      <PackagePath>UserDetailsApp.Implementations.dll</PackagePath>
+      <Modified>2022-03-10T09:54:10.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2016-11-30T02:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-02T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
+      <Modified>2021-10-14T09:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\icons8-user-64.png">
+      <PackagePath>Assets\icons8-user-64.png</PackagePath>
+      <Modified>2022-03-10T09:40:48.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-03-09T17:00:02.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\xamarin_logo.png">
+      <PackagePath>xamarin_logo.png</PackagePath>
+      <Modified>2022-03-09T17:00:02.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\icon_about.png">
+      <PackagePath>icon_about.png</PackagePath>
+      <Modified>2022-03-09T17:00:02.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\icon_feed.png">
+      <PackagePath>icon_feed.png</PackagePath>
+      <Modified>2022-03-09T17:00:02.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2022-03-09T17:00:02.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\UserDetailsApp.Core.UWP.xr.xml">
+      <PackagePath>UserDetailsApp.Core.UWP.xr.xml</PackagePath>
+      <Modified>2022-03-09T22:06:04.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-03-10T09:54:17.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2022-03-10T09:54:17.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T03:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-02T01:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2020-07-10T00:07:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-03-10T09:45:15.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Core\UserDetailsApp.Core.UWP\bin\x86\Debug\Core\UserDetailsApp.Core.UWP.exe">
+      <PackagePath>UserDetailsApp.Core.UWP.exe</PackagePath>
+      <Modified>2022-03-10T09:54:18.938</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\hp\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.29713.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.29301.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30035.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30035.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\bin\Debug\netstandard2.0\UserDetailsApp.Models.deps.json
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\bin\Debug\netstandard2.0\UserDetailsApp.Models.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\bin\Debug\netstandard2.0\UserDetailsApp.Models.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.AssemblyInfoInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.AssemblyInfo.cs
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.csproj.CoreCompileInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Models\obj\Debug\netstandard2.0\UserDetailsApp.Models.csproj.AssemblyReference.cache

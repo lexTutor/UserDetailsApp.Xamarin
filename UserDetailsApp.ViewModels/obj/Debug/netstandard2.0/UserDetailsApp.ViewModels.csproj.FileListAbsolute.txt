@@ -1,0 +1,9 @@
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\bin\Debug\netstandard2.0\UserDetailsApp.ViewModels.deps.json
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\bin\Debug\netstandard2.0\UserDetailsApp.ViewModels.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\bin\Debug\netstandard2.0\UserDetailsApp.ViewModels.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.AssemblyInfoInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.AssemblyInfo.cs
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.ViewModels\obj\Debug\netstandard2.0\UserDetailsApp.ViewModels.pdb

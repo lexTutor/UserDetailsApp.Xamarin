@@ -1,0 +1,13 @@
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.deps.json
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\bin\Debug\netstandard2.0\UserDetailsApp.Models.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\bin\Debug\netstandard2.0\UserDetailsApp.Models.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.csproj.AssemblyReference.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.AssemblyInfoInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.AssemblyInfo.cs
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.csproj.CoreCompileInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.csproj.CopyComplete
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Contracts\obj\Debug\netstandard2.0\UserDetailsApp.Contracts.pdb

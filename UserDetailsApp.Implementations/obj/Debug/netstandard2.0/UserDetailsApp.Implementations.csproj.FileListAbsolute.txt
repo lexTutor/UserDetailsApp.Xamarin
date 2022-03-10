@@ -1,0 +1,15 @@
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Implementations.deps.json
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Implementations.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Implementations.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Models.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Contracts.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\bin\Debug\netstandard2.0\UserDetailsApp.Models.pdb
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.csproj.AssemblyReference.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.AssemblyInfoInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.AssemblyInfo.cs
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.csproj.CoreCompileInputs.cache
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.csproj.CopyComplete
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.dll
+C:\LexRepos\LearningXamarin\UserDetailsApp\UserDetailsApp.Implementations\obj\Debug\netstandard2.0\UserDetailsApp.Implementations.pdb

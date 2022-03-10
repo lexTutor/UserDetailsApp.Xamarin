@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.17.0" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserDetailsApp.Contracts\UserDetailsApp.Contracts.csproj" />
+    <ProjectReference Include="..\UserDetailsApp.Models\UserDetailsApp.Models.csproj" />
+  </ItemGroup>
+
+</Project>

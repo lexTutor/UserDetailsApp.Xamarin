@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserDetailsApp.Core.Views.AboutPage"
+             xmlns:vm="clr-namespace:UserDetailsApp.Core.ViewModels"
+             Title="{Binding Title}"
+             Style="{StaticResource Background}">
+
+   <ContentPage.BindingContext>
+      <vm:AboutViewModel />
+   </ContentPage.BindingContext>
+
+   <ContentPage.Resources>
+      <ResourceDictionary>
+         <Color x:Key="Accent">#96d1ff</Color>
+      </ResourceDictionary>
+   </ContentPage.Resources>
+
+   <Grid>
+      <Grid.RowDefinitions>
+         <RowDefinition Height="Auto" />
+         <RowDefinition Height="*" />
+      </Grid.RowDefinitions>
+      <StackLayout  VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+         <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+            <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+               <Image Source="UserBase.gif" VerticalOptions="Center" HeightRequest="64" />
+            </ContentView>
+         </StackLayout>
+      </StackLayout>
+      <ScrollView Grid.Row="1">
+         <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
+            <Label Text="User Profile" FontSize="Title" HorizontalOptions="Center"/>
+         </StackLayout>
+      </ScrollView>
+   </Grid>
+
+</ContentPage>

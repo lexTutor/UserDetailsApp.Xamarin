@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9044f509-b5e1-486b-9c4f-2bb9e366d018": {
+      "ProjectGuid": "9044f509-b5e1-486b-9c4f-2bb9e366d018",
+      "DisplayName": "UserDetailsApp.Core",
+      "ColorIndex": 0
+    },
+    "f08fffe8-d056-4268-8f27-25890a1da4a8": {
+      "ProjectGuid": "f08fffe8-d056-4268-8f27-25890a1da4a8",
+      "DisplayName": "UserDetailsApp.Models",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0e78eff9-1dcd-490d-9607-9517bb7320ac": {
+      "ProjectGuid": "0e78eff9-1dcd-490d-9607-9517bb7320ac",
+      "DisplayName": "UserDetailsApp.Core.Android",
+      "ColorIndex": 2
+    },
+    "27c0894d-52cb-4773-8134-8a841e40de0b": {
+      "ProjectGuid": "27c0894d-52cb-4773-8134-8a841e40de0b",
+      "DisplayName": "UserDetailsApp.Core.UWP",
+      "ColorIndex": 3
+    },
+    "bfceeb63-585c-41f3-b2f3-beb4939565d1": {
+      "ProjectGuid": "bfceeb63-585c-41f3-b2f3-beb4939565d1",
+      "DisplayName": "UserDetailsApp.Implementations",
+      "ColorIndex": 4
+    },
+    "bb70d492-fa2a-4564-af80-1670187eced2": {
+      "ProjectGuid": "bb70d492-fa2a-4564-af80-1670187eced2",
+      "DisplayName": "UserDetailsApp.Contracts",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

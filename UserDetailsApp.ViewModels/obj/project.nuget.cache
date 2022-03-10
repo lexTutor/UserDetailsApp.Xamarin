@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fm9NeAXe5o+ziRgMWoA+Sp1EieqFKtsoNcLPkrgXdNSDTO1zf0iBSRFeVEWzhVNjoFxXKWR8gMSREKhkXTsD4Q==",
+  "success": true,
+  "projectFilePath": "C:\\LexRepos\\LearningXamarin\\UserDetailsApp\\UserDetailsApp.ViewModels\\UserDetailsApp.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
