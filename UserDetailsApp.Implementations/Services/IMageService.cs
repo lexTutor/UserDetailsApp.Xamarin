@@ -14,7 +14,7 @@ namespace UserDetailsApp.Implementations.Services
 
       public ImageService()
       {
-         cloudinary = new Cloudinary(new Account("cloud9ne", "192122632777812", "dsdX67WClh58ql-tD1uO0LJaRuA"));
+         cloudinary = new Cloudinary(new Account("", "", ""));
       }
 
       public async Task<ImageUploadResult> UploadImage(Stream image, string name, string extension)
